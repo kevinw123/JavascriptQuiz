@@ -1,5 +1,5 @@
 body{
-	background: #f06226;
+	background: #2E4053;
 	color: #fff;
 	font-family:'Arial', sans-serif;
 	font-size:14px;
@@ -8,7 +8,7 @@ body{
 
 #container{
 	width: 60%;
-	background: #199fdb;
+	background: #2E4053;
 	margin:20px auto;
 	overflow: auto;
 	padding: 25px;
@@ -42,20 +42,20 @@ form{
 	align-content: center;
 }
 input[type='submit']{
-	background: #f06226;
+	background: #5CB85C;
 	border:0;
-	color: #fff;
+	color: #FFFFFF;
 	padding: 10px 15px;
 	cursor: pointer;
 }
 
 #results h3{
-	background: #f06226;
+	background: #6A5ACD;
 	padding: 10px;
 	margin: 10px 0;
 }
 
 #results span{
-	color: #000;
+	color: #00FF00;
 	font-weight: bold;
 }
