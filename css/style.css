@@ -38,6 +38,9 @@ footer{
 	text-align:center;
 }
 
+form{
+	align-content: center;
+}
 input[type='submit']{
 	background: #f06226;
 	border:0;
